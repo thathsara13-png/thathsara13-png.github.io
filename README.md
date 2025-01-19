@@ -1,4 +1,5 @@
 # My portfolio
+!(https://github.com/thathsara13-png/thathsara13-png.github.io/blob/main/IMG_2902.JPG)
 
 ## About me
 I aspire to take on challenging leadership roles, continuously develop my skills, and contribute to the success of a growing organization by optimizing resources and driving maximum profitability.
@@ -23,4 +24,7 @@ Badminton
 Chess
 
 Reading novels
+
+## Contact details
+thathsarabandara1963@gmail.com 
 
