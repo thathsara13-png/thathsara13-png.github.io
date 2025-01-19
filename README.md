@@ -29,7 +29,7 @@ Reading novels
 ## Contact details
 thathsarabandara1963@gmail.com 
 
-<a href="" download>Download My Resume</a>
+<a href="https://github.com/thathsara13-png/thathsara13-png.github.io/blob/main/D.T.S%20Bandara%20CV.pdf" download>Download My Resume</a>
 
 
 
