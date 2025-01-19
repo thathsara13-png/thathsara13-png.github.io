@@ -26,5 +26,5 @@ Chess
 Reading novels
 
 ## Contact details
-thathsarabandara1963@gmail.com 
+
 
