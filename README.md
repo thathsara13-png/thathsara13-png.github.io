@@ -1,5 +1,5 @@
 # My portfolio
-<img src="/"  style="width:300px; height:auto;">
+<img src="IMG_2902.JPG"  style="width:300px; height:auto;">
 
 
 ## About me
