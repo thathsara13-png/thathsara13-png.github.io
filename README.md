@@ -1,5 +1,12 @@
 # My portfolio
-<img src="https://github.com/thathsara13-png/thathsara13-png.github.io/blob/main/IMG_2902.JPG"  style="width:300px; height:auto;">
+<img src="https://github.com/thathsara13-png/thathsara13-png.github.io/blob/main/IMG_2902.JPG"  class="portfolio-image">
+.portfolio-image {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
 
 
 ## About me
